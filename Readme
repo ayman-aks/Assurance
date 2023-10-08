@@ -1,0 +1,10 @@
+# Mon Projet C++
+
+## Description
+Ce projet est un exemple simple de gestion d'assurance avec des classes C++.
+
+## Compilation
+Pour compiler le projet, vous pouvez utiliser le Makefile fourni. Assurez-vous que vous avez g++ installé sur votre système. Exécutez la commande suivante dans le répertoire du projet :
+
+```bash
+make

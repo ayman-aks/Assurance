@@ -1,0 +1,22 @@
+Societaire
+1 Alice Tremblay
+Vehicule
+101 Voiture 1500 2020
+Vehicule
+102 Camion 2000 2018
+Logement
+201 Appartement 80 3
+Logement
+202 Maison 200 1
+Societaire
+2 Bob Lavoie
+Vehicule
+103 Moto 50 2021
+Logement
+203 Studio 100 2
+Societaire
+3 Claire Martin
+Vehicule
+104 Vélo 20 2019
+Logement
+204 Chalet 150 2
